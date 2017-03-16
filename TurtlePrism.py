@@ -10,8 +10,6 @@ nextY = 0
 def prism(x,y,z):
     global edges
 
-    #markOrigin() is a function for the viewer to have a frame of reference
-    #markOrigin(x/10)
 
 
     #A dictionary of all the edges of a cube
@@ -86,8 +84,6 @@ def setNext(edge, x0, y0, theta):
             print(endEdge)
             print(str(nextX) + "," + str(nextY))
   
-
-            
             
 
             
@@ -118,5 +114,6 @@ def jump(edge, length, angle):
 
 
 
-prism(200,50,30)
-jump('A0', 30, 32 )
+prism(50,50,50)
+jump('A0', 25, 30)
+
