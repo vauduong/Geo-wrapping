@@ -6,4 +6,5 @@ was therefore given the name ”Geo-wrapping”. Properties of line-continuation
 on a net were observed, a python turtle program was written to model the
 problem for a cube, and a generalization of the problem for different solids was
 attempted.
-vauduong.github.io/projects/geowrapping.html
+
+[Click here to interact with Geo-wrapping](vauduong.github.io/projects/geowrapping.html)
